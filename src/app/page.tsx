@@ -7,7 +7,7 @@ const frameMetadata = getFrameMetadata({
       label: "Begin",
     },
   ],
-  image: `${process.env.NEXT_PUBLIC_GATEWAY_URL}/ipfs/QmQ5TPZUaMPdbXGhLboBC9Yrs8khvj46Ry5EAT9Gy2tKom/loginbutton.png`,
+  image: `${process.env.NEXT_PUBLIC_GATEWAY_URL}/ipfs/QmbPy371rb9rcQgZCpdNx5R98mUinMWcH2yokscz4D1GpG/0.jpg`,
   post_url: `${process.env.NEXT_PUBLIC_BASE_URL}/api/frame?id=1`,
 });
 
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     title: "Cosmic Cowboys",
     description: "A frame telling the story of Cosmic Cowboys",
     images: [
-      `${process.env.NEXT_PUBLIC_GATEWAY_URL}/ipfs/QmQ5TPZUaMPdbXGhLboBC9Yrs8khvj46Ry5EAT9Gy2tKom/loginbutton.png`,
+      `${process.env.NEXT_PUBLIC_GATEWAY_URL}/ipfs/QmbPy371rb9rcQgZCpdNx5R98mUinMWcH2yokscz4D1GpG/0.jpg`,
     ],
   },
   other: {
